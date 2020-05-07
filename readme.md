@@ -6,7 +6,7 @@
 [![Coverage Status](https://codecov.io/gh/Tencent/bk-sops/branch/master/graph/badge.svg)](https://codecov.io/gh/Tencent/bk-sops)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tencent/bk-sops/pulls)
 
-[![codecov](https://codecov.io/gh/ZhuoZhuoCrayon/bk-sops/branch/test_travis/graph/badge.svg)](https://codecov.io/gh/ZhuoZhuoCrayon/bk-sops)
+[![codecov](https://codecov.io/gh/ZhuoZhuoCrayon/bk-sops/branch/master/graph/badge.svg)](https://codecov.io/gh/ZhuoZhuoCrayon/bk-sops)
 
 [(English Documents Available)](readme_en.md)
 
