@@ -2,9 +2,11 @@
 ---
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/Tencent/bk-sops/blob/master/LICENSE)
 [![Release](https://img.shields.io/badge/release-3.5.7-brightgreen.svg)](https://github.com/Tencent/bk-sops/releases)
-[![travis-ci](https://travis-ci.com/Tencent/bk-sops.svg?branch=master)](https://travis-ci.com/Tencent/bk-sops)
+[![travis-ci](https://travis-ci.com/ZhuoZhuoCrayon/bk-sops.svg?branch=test_travis)](https://travis-ci.com/ZhuoZhuoCrayon/bk-sops)
 [![Coverage Status](https://codecov.io/gh/Tencent/bk-sops/branch/master/graph/badge.svg)](https://codecov.io/gh/Tencent/bk-sops)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tencent/bk-sops/pulls)
+
+[![codecov](https://codecov.io/gh/ZhuoZhuoCrayon/bk-sops/branch/test_travis/graph/badge.svg)](https://codecov.io/gh/ZhuoZhuoCrayon/bk-sops)
 
 [(English Documents Available)](readme_en.md)
 
